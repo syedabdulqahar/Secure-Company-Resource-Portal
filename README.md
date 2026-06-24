@@ -1,4 +1,4 @@
-# CS3723 Database Security — RBAC + ABAC Portal
+## Database Security — RBAC + ABAC Portal
 
 A full-stack web application that demonstrates **Role-Based Access Control (RBAC)** and **Attribute-Based Access Control (ABAC)** for protecting company resources. Users authenticate with JWT, access is enforced on the server, every significant action is written to an audit log, and built-in attack simulations validate common security controls.
 
